@@ -15,7 +15,7 @@ Un simulateur de réseau performant et robuste développé en **OCaml**. Ce proj
 
 ---
 
-## 🛠️ Architecture du Code (Mon Empreinte)
+## 🛠️ Architecture du Code 
 
 Le projet est structuré de manière modulaire :
 * **Modélisation** : Utilisation de `Records` pour les paquets, nœuds et liens.
